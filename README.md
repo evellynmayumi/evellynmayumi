@@ -1,16 +1,29 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you;Welcome+to+my+profile;)](https://git.io/typing-svg)
 
-<!--
-**evellynmayumi/evellynmayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I´m Evellyn Mayumi Yokoyama**<br><br>
+🌱 I’m currently learning:
+- System Programming SENAC
+- Web Developer<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+
+**Languages and Tools**<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
+  
+
+**Find me here🙃**<br>
+ <A href="https://www.linkedin.com/in/evellyn-mayumi-230795224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> <A href = "mailto:mayumicha16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a href="https://instagram.com/evellynmayumi_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+       
+ 
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=evellynmayumi&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynmayumi&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
+
