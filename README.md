@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you;Welcome+to+my+profile;)](https://git.io/typing-svg)
 
-**I´m Evellyn Mayumi Yokoyama**<br><br>
+**I´m Evellyn Mayumi**<br><br>
 🌱 I’m currently learning:
 - System Programming SENAC
 - Web Developer<br>
@@ -21,8 +21,8 @@
  
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=evellynmayumi&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynmayumi&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
 
 
