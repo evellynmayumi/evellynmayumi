@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you;Welcome+to+my+profile;)](https://git.io/typing-svg)
 
-**I´m Evellyn Mayumi**<br><br>
-🌱 I’m currently learning:
+**I´m Evellyn Mayumi**<br>
 - System Programming SENAC
-- Web Developer<br>
+- Web Developer<br><br>
 
-
+🌱 I’m currently learning:
+- Mobile development with Flutter
 <div style="display: inline_block"><br>
 
 **Languages and Tools**<br>
